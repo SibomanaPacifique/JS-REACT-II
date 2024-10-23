@@ -1,0 +1,92 @@
+body {
+    background-color: #1b2c52;
+    text-align: center;
+  }
+  h1{
+    color: orange;
+    text-transform: uppercase;
+  }
+  #timer {
+    font-size: 3em;
+    color: whitesmoke;
+    margin-bottom: 1em;
+  }
+  #btn {
+    width: 8em;
+    height: 2.5em;
+    border-radius: 0.5em;
+    background-color: yellow;
+  }
+ 
+ 
+  h1{
+   color: orange;
+   text-transform: uppercase;
+ }
+ #speed {
+   font-size: 3em;
+   color: gray;
+   margin-bottom: 3em;
+ }
+ #attempt {
+   width: 8em;
+   height: 2.5em;
+   border-radius: 0.5em;
+   background-color: orange;
+   margin-bottom: 3em;
+ }
+ hr {
+   font-size: 0.3 em;
+   color: limegreen;
+ }
+ #clock {
+   font-size: 3em;
+   color: black;
+   margin-bottom: 3em;
+ }
+ #clockbtn {
+   width: 8em;
+   height: 2.5em;
+   border-radius: 0.5em;
+   background-color: orange;
+   margin-bottom: 1em;
+ }
+ #hour {
+   display: flex;
+  padding: 0.3em;
+  text-align: center;
+  margin-left: 10em;
+ }
+ #hour p {
+   padding: 0.1em;
+   color: whitesmoke;
+    font-size: 2.5em;
+ }
+ #stop1 {
+   width: 9em;
+   height: 2.5em;
+   border-radius: 0.5em;
+   background-color: orange;
+   margin-bottom: 1em;
+ }
+ #stop2 {
+   width: 9em;
+   height: 2.5em;
+   border-radius: 0.5em;
+   background-color: orange;
+   margin-bottom: 1em;
+ }
+ #stop3 {
+   width: 9em;
+   height: 2.5em;
+   border-radius: 0.5em;
+   background-color: orange;
+   margin-bottom: 1em;
+ }
+ #stopwatch {
+   font-size: 3em;
+   color: whitesmoke;
+   margin-bottom: 1em;
+ }
+  
+ 
